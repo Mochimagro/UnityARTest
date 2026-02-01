@@ -8,6 +8,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ARMarker.unity
     guid: 4871795e4f85407468bcdff80e5d8e8b
+  - enabled: 1
+    path: Assets/Scenes/RaycastSpawn.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: e3a3477f0d3a2cd4da965abcf7154ce8,
       type: 2}
