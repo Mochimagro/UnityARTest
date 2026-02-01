@@ -54,3 +54,14 @@ Prefabの動的生成
 Human Occlusion（人物遮蔽）は未対応
 
 AR未対応端末では正常動作しません
+
+# 参考記事
+ - ARRaycast
+https://note.com/bunmeisha_media/n/nc1b308f180df
+
+ - ARMarker
+https://qiita.com/Pancetta/items/3754c3b22268760e05a4
+
+ - オクルージョン設定
+https://marumaro7.hatenablog.com/entry/arocclusion
+
